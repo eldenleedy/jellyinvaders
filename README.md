@@ -1,5 +1,5 @@
-# jellyinvaders
- Simple browser game, based on space invaders.
-A - left
-D - right
-F - fire net
+### Jelly Invaders
+
+- A to move left
+- D to move right
+- F to fire net
