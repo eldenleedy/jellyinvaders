@@ -1,0 +1,35 @@
+#game {
+    position: relative;
+    width: 400px;
+    height: 500px;
+    border: 2px solid #000;
+    background-color: #006994;
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+#player {
+    position: absolute;
+    bottom: 10px;
+    left: 175px;
+    width: 50px;
+    height: 50px;
+    background-image: url('./data/sub.png');
+    background-size: cover;
+}
+
+.invader {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background-image: url('./data/jelly.png');
+    background-size: cover;
+}
+
+.bullet {
+    position: absolute;
+    width: 25px;
+    height: 20px;
+    background-image: url('./data/net.png');
+    background-size: cover;
+}
